@@ -1,0 +1,11 @@
+cert_files/client.csr
+cert_files/client.key
+cert_files/client.pem
+cert_files/client.pfx
+cert_files/rootCA.key
+cert_files/rootCA.pem
+cert_files/rootCA.srl
+cert_files/server.csr
+cert_files/server.key
+cert_files/server.pem
+cert_files/server.pfx
