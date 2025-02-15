@@ -29,24 +29,24 @@
 
 - 自己署名証明書のため、Safariが接続のプライバシー保護について警告を表示しています。
 
-![macOSのSafariでの動作](./images/macos/00.png)
+    <img src="./images/macos/00.png" alt="macOSのSafariでの動作" width="200">
 
 - 詳細を表示した状態でも、Safariは自己署名証明書による接続の危険性を改めて警告しています。
 
-![macOSのSafariでの動作](./images/macos/01.png)
+    <img src="./images/macos/01.png" alt="macOSのSafariでの動作" width="300">
 
 - プライベートでない接続でWebサイトを閲覧するかどうかをSafariが確認しています。
 
-![macOSのSafariでの動作](./images/macos/02.png)
+    <img src="./images/macos/02.png" alt="macOSのSafariでの動作" width="300">
 
 - Webサイトがクライアント証明書を要求し、証明書の選択を促すSafariの画面です。
     - この画面は**macOSでは履歴のクリアやブラウザの再起動を行わなくても、必ず毎回表示されてしまいます。**
 
-![macOSのSafariでの動作](./images/macos/03.png)
+    <img src="./images/macos/03.png" alt="macOSのSafariでの動作" width="300">
 
 - クライアント証明書による認証が成功し、Webページが表示されました。
 
-![macOSのSafariでの動作](./images/macos/04.png)
+    <img src="./images/macos/04.png" alt="macOSのSafariでの動作" width="300">
 
 ### 2. iOSのSafariでの動作
 
@@ -55,37 +55,37 @@
 
 - iOS SafariでWebサーバーのURLを入力しアクセスを試みている画面です。
 
-![iOSのSafariでの動作](./images/ios/00.png)
+    <img src="./images/ios/00.png" alt="iOSのSafariでの動作" width="200">
 
 - 自己署名証明書のため、iOS Safariが接続のプライバシー保護に関する警告を表示しています。
 
-![iOSのSafariでの動作](./images/ios/01.png)
+    <img src="./images/ios/01.png" alt="iOSのSafariでの動作" width="200">
 
 - 詳細を表示した状態でも、iOS Safariは自己署名証明書による接続の危険性を改めて警告しています。
 
-![iOSのSafariでの動作](./images/ios/02.png)
+    <img src="./images/ios/02.png" alt="iOSのSafariでの動作" width="200">
 
 - プライベートでない接続でWebサイトを閲覧するかどうかをiOS Safariが確認しています。
 
-![iOSのSafariでの動作](./images/ios/03.png)
+    <img src="./images/ios/03.png" alt="iOSのSafariでの動作" width="200">
 
 - Webサイトがクライアント証明書を要求し、証明書の選択を促すiOS Safariのダイアログです。
 
-![iOSのSafariでの動作](./images/ios/04.png)
+    <img src="./images/ios/04.png" alt="iOSのSafariでの動作" width="200">
 
 - クライアント証明書による認証が成功し、Webページのメインページが表示されました。
 
-![iOSのSafariでの動作](./images/ios/05.png)
+    <img src="./images/ios/05.png" alt="iOSのSafariでの動作" width="200">
 
 - メインページからページ1へ移動した後の画面です。
     - 証明書の選択をうながすダイアログは表示されません。
 
-![iOSのSafariでの動作](./images/ios/06.png)
+    <img src="./images/ios/06.png" alt="iOSのSafariでの動作" width="200">
 
 - ページ1からページ2へ移動した後の画面です。
     - 証明書の選択をうながすダイアログは表示されません。
 
-![iOSのSafariでの動作](./images/ios/07.png)
+    <img src="./images/ios/07.png" alt="iOSのSafariでの動作" width="200">
 
 ## 証明書の作成
 
