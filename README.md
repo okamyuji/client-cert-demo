@@ -45,6 +45,7 @@
     <img src="./images/macos/03.png" alt="macOSのSafariでの動作" width="300">
 
 - クライアント証明書による認証が成功し、Webページが表示されました。
+    - 同一セッション内での画面遷移ではクライアント証明書の選択をうながすダイアログは表示されません。
 
     <img src="./images/macos/04.png" alt="macOSのSafariでの動作" width="300">
 
